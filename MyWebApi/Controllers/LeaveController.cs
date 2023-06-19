@@ -4,7 +4,7 @@ using MyWebApi.Models;
 
 namespace MyWebApi.Controllers
 {
-    [ApiController]
+    [ApiController] 
     [Route("api/[controller]")]
     public class LeaveController : ControllerBase
     {

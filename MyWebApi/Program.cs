@@ -4,7 +4,7 @@ using MyWebApi.Controllers;
 using MyWebApi.Configuration;
 
 namespace YourProjectNamespace
-{
+{ 
     public class Program
     {
         public static void Main(string[] args) 
